@@ -6,7 +6,7 @@ Java: Programming language used for writing test scripts.
 Selenium: Browser automation tool.
 Cucumber: BDD framework for writing test scenarios in Gherkin.
 Allure: Reporting tool for generating test reports.
-Maven: Build automation tool.## Setup and Installation
+Maven: Build automation tool.
 
 Prerequisites
 Java JDK 21 or higher
